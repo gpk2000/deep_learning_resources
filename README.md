@@ -23,8 +23,8 @@
 1. [Intro to NNets by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     - The best introduction and motivation for learning Neural Networks
     
-2.[MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-    - Interesting videos and lectures
+2. [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+    - Interesting videos and lectures.
     - Their course website is [here](http://introtodeeplearning.com/)
 
 ---
